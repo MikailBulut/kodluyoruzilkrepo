@@ -28,6 +28,8 @@ cd kodluyoruzilkrepo
 code .
 
 
+
+
 ## Contributing
 
 ---
